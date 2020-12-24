@@ -1,3 +1,6 @@
 baseurl: /web_demo 
   include:
       README.md
+
+  # My Blogs
+  - [blog1](./blog1.md)
