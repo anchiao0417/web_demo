@@ -1,1 +1,3 @@
 baseurl: /web_demo 
+  include:
+      README.md
